@@ -1,0 +1,7 @@
+{
+  "name": "MABI War Room",
+  "description": "A Multi-Agent Business Intelligence platform where AI agents battle-test your business ideas through a structured debate loop.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
